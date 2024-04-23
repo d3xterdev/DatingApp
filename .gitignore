@@ -482,3 +482,4 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+client/ssl/mkcert-v1.4.4-windows-amd64.exe
